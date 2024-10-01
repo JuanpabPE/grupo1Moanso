@@ -36,9 +36,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(242, 125);
             label1.Name = "label1";
-            label1.Size = new Size(198, 15);
+            label1.Size = new Size(33, 15);
             label1.TabIndex = 0;
-            label1.Text = "XDDDDDDDDDDDDDDDDDDDDDDD";
+            label1.Text = "pene";
             label1.Click += label1_Click;
             // 
             // Form1
